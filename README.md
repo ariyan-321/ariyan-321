@@ -16,8 +16,7 @@
 
 ###
 
-<p align="left">Hi there! I’m Ariyan Haque, a creative Frontend Developer with a passion for crafting user-friendly web applications. My coding journey began at 13, and over the years, I’ve developed a deep love for building interactive, efficient, and visually appealing digital experiences.<br><br>🚀 I’m on a mission to become a skilled MERN Stack Developer, combining my frontend expertise with backend technologies to create full-stack applications that solve real-world problems.<br><br>🌱 I believe in lifelong learning and continuously push myself to explore new tools, frameworks, and best practices in web development.</p>
-
+<p align="left">Hi there! I’m Ariyan Haque, a creative front-end developer passionate about crafting user-friendly web applications. I love building interactive, efficient, and visually appealing digital experiences.🚀 I’m on a mission to become a skilled MERN Stack Developer, combining my frontend expertise with backend technologies to create full-stack applications that solve real-world problems.🌱 I believe in lifelong learning and continuously push myself to explore new tools, frameworks, and best practices in web development.</p>
 ###
 
 <h2 align="left">I code with</h2>
